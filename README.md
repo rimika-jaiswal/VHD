@@ -1,2 +1,2 @@
 # VHD
-Main paper and codebase for work on "Variational Hamiltonian Descent" accompanying extended abstract submission for talk to QSim 2026.
+Full paper titled "Variational Hamiltonian Descent" accompanying the extended abstract submission to QSim 2026.
